@@ -1,1 +1,2 @@
-🌱 Currently learning python and c#
+🌱 Currently learning
+#python #c #c++ #csharp #bash
